@@ -35,6 +35,8 @@ int main()
 	int i = 1024;
 	int k = -i; // i is -1024
 	
+	cout << i << endl;
+
 	bool b = true;
 	bool b2 = -b; // b2 is true!
 	
