@@ -62,9 +62,7 @@ std::ostream &print(std::ostream&, const Sales_data&);
 std::istream &read(std::istream&, Sales_data&);
 
 // used in future chapters
-inline 
-bool compareIsbn(const Sales_data &lhs, const Sales_data &rhs)
-{
+inline bool compareIsbn(const Sales_data &lhs, const Sales_data &rhs) {
 	return lhs.isbn() < rhs.isbn();
 }
 #endif
