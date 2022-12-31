@@ -14,55 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4e913a9-7349-4ba9-98a4-e04379fc1ad3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/for_ex.cc" beforeDir="false" afterPath="$PROJECT_DIR$/01/1.4.2_The_for_Statement_EXERCISES_SECTION_1.4.2.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/forcount.cc" beforeDir="false" afterPath="$PROJECT_DIR$/01/1.4.2_The_for_Statement.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/main_only.cc" beforeDir="false" afterPath="$PROJECT_DIR$/01/1.1_Writing_a_Simple_Cpp_Program.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/occurs.cc" beforeDir="false" afterPath="$PROJECT_DIR$/01/1.4.4_The_if_Statement.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/whilecount.cc" beforeDir="false" afterPath="$PROJECT_DIR$/01/1.4.1_The_while_Statement.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/compounddecls.cc" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.3.3_Understanding_Compound_Type_Declarations_01_DefiningMultiple_Variables.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/convs.cc" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.2_Type_Conversions.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/dbl_ptr.cc" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.3.3_Understanding_Compound_Type_Declarations_02_Pointers_to_Pointers.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/decl-ex.cc" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.5.3_The_decltype_Type_Specifier_EXERCISES_SECTION_2.5.3.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/escape.cc" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.3_Literals_0_Escape_Sequences.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/ref-ex.cc" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.3.1_References_EXERCISES_SECTION_2.3.1.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/scope_levels.cc" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.2.4_Scope_of_a_Name_01_Nested_Scopes.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/unsigned.cc" beforeDir="false" afterPath="$PROJECT_DIR$/02/2.1.2_Type_Conversions_EXERCISES_SECTION_2.1.2.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_01_Reading_and_Writing_strings.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_01_Reading_and_Writing_strings_part1.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_04_The_string_empty_and_size_Operations.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_04_The_string_empty_and_size_Operations_part1.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/3.3.3_Other_vector_Operations.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.3.3_Other_vector_Operations_02_Computing_a_vector_Index.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/add_using.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.1_Namespace_using_Declarations_01_A Separate_using_Declaration_Is_Required_for_Each_Name.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/char_repl.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.4.1_Using_Iterators_01.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/square.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.3.3_Other_vector_Operations_01.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/strcompare.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_06_Comparing_strings.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/string_add.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_08_Adding_Two_strings_09_Adding_Literals_and_strings.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/string_io2.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_01_Reading_and_Writing_strings_part2.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/string_size.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_04_The_string_empty_and_size_Operations_part0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/string_size2.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.2.2_Operations_on_strings_04_The_string_empty_and_size_Operations_part2.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/vecSubs.cc" beforeDir="false" afterPath="$PROJECT_DIR$/03/3.3.3_Other_vector_Operations_03_Subscripting_Does_Not_Add_Elements.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/4.2_Arithmetic_Operators.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.2_Arithmetic_Operators_01_unary_operator.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/4.9_The_sizeof_Operator.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.9_The_sizeof_Operator_01.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/arith-ex.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.2_Arithmetic_Operators_EXERCISES_SECTION_4.2.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/arraysizeof.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.9_The_sizeof_Operator_02_number_of_elments_in_an_array.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/cond.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.7_The_Conditional_Operator_01.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/incr.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.5_Increment_and_Decrement_Operators_01.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/int-div.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.2_Arithmetic_Operators_03_division_between_integers.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/oofe.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.5_Increment_and_Decrement_Operators_03_Remember_That_Operands_Can_Be_Evaluated_in_Any_Order.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/overflow.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.2_Arithmetic_Operators_02_overflow.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/prec.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.1.2_Precedence_and_Associativity_01_Parentheses_Override_Precedence_and_Associativity.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/shift-prec.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.7_The_Conditional_Operator_02_Using_a_Conditional_Operator_in_an_Output_Expression.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/vec_init.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.10_Comma_Operator.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/warn_dbltoint.cc" beforeDir="false" afterPath="$PROJECT_DIR$/04/4.11_Type_Conversions.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/doWhile.cc" beforeDir="false" afterPath="$PROJECT_DIR$/05/5.4.4_The_do_while_Statement_01.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/guess.cc" beforeDir="false" afterPath="$PROJECT_DIR$/05/5.4.4_The_do_while_Statement_02.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05/ifgrades.cc" beforeDir="false" afterPath="$PROJECT_DIR$/05/5.3.1_The_if_Statement.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/6.3.2_Functions_That_Return_a_Value_01_How_Values_Are_Returned.cc" beforeDir="false" afterPath="$PROJECT_DIR$/06/6.3.2_Functions_That_Return_a_Value_01_How_Values_Are_Returned_part1.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/6.7_Pointers_to_Functions.cc" beforeDir="false" afterPath="$PROJECT_DIR$/06/6.7_Pointers_to_Functions_01.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/LocalMath.cc" beforeDir="false" afterPath="$PROJECT_DIR$/06/6.1_Function_Basics_01_Writing_a_Function_factorial.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/fcnptrRet.cc" beforeDir="false" afterPath="$PROJECT_DIR$/06/6.7_Pointers_to_Functions_02.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/mainmath.cc" beforeDir="false" afterPath="$PROJECT_DIR$/06/6.1_Function_Basics_01_Calling_a_Function_factorial.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/mk_plural.cc" beforeDir="false" afterPath="$PROJECT_DIR$/06/6.3.2_Functions_That_Return_a_Value_01_How_Values_Are_Returned_part2.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/refret-ex.cc" beforeDir="false" afterPath="$PROJECT_DIR$/06/6.3.2_Functions_That_Return_a_Value_05_Recursion_EXERCISES_SECTION_6.3.2.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/Account.cc" beforeDir="false" afterPath="$PROJECT_DIR$/07/7.6_static_Class_Members_01_Defining_static_Members.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/03/a.out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +55,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/Users/zhen/Documents/MCIT/CIS-553/CppPrimer/Cpp_Primer_Source_Code_GCC_4_7_0/06",
+    "last_opened_file_path": "/Users/zhen/Documents/MCIT/CIS-553/CppPrimer/Cpp_Primer_Source_Code_GCC_4_7_0/03",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -113,6 +65,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -122,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1672009516271</updated>
       <workItem from="1672009518187" duration="24219000" />
-      <workItem from="1672333597440" duration="9026000" />
+      <workItem from="1672333597440" duration="14234000" />
+      <workItem from="1672446825276" duration="3715000" />
     </task>
     <servers />
   </component>
